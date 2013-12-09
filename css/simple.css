@@ -267,7 +267,12 @@ margin-top: -350px;
     margin:15px;
 }
 
+
+.email{
+  color: #5f98d1;
+}
 #footer-1 {
+margin-right 19vmin;
     color:#555;
     font-size:20px;
     text-align:right;
